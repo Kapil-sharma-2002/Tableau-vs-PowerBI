@@ -1,0 +1,6 @@
+Dataset Source:
+Global Terrorism Database (Public dataset)
+
+This dataset contains information about terrorism incidents in India across multiple years.
+
+Note: Dataset used for academic analytical purposes only.
